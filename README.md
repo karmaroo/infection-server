@@ -72,11 +72,14 @@ How values are written in the file:
 | `RiseDelaySeconds` | `15` | Seconds between going down and rising. At least 1. |
 | `InfectedHitWindowSeconds` | `300` | A death with no killing blow (bleeding out, shock) still counts as a kill by the infected if one hit the player within this many seconds. |
 | `TransferGear` | `1` | Move the player's clothing, and everything in it, onto the risen body. |
-| `RemoveOldBody` | `1` | Remove the old corpse once the player has risen, so the risen body is the only one. Anything left on it drops to the ground. |
-| `GaitWeightA` | `55` | How often the most upright infected gait is given to a newly risen player, relative to the other three. `0` removes a gait from the draw. |
-| `GaitWeightB` | `20` | The same, for the second gait. |
-| `GaitWeightC` | `20` | The same, for the third gait. |
-| `GaitWeightD` | `5` | The same, for the deepest hunch. |
+| `RemoveOldBody` \* | `1` | Remove the old corpse once the player has risen, so the risen body is the only one. Anything left on it drops to the ground. |
+| `GaitWeightA` \* | `55` | How often the most upright infected gait is given to a newly risen player, relative to the other three. `0` removes a gait from the draw. |
+| `GaitWeightB` \* | `20` | The same, for the second gait. |
+| `GaitWeightC` \* | `20` | The same, for the third gait. |
+| `GaitWeightD` \* | `5` | The same, for the deepest hunch. |
+
+\* Best left at the default. These are there for fine tuning; most servers
+have no reason to change them.
 
 ### Who rises
 
