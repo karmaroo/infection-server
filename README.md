@@ -4,8 +4,8 @@ Server files and setup notes for **Infection**, a DayZ mod in which a player
 brought down by the infected does not die: they turn, and play on as one of
 the infected, with their own abilities and a horde to command.
 
-- **Players** need only the mod itself: subscribe to *Infection* on the Steam
-  Workshop.
+- **Players** need only the mod itself: subscribe to
+  [Infection on the Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3839248989).
 - **Servers** need the mod and the server-side part in this repository.
 
 **Download the latest server files:**
@@ -25,8 +25,9 @@ Each release has the same files as one zip.
 
 ## Installing on a server
 
-1. Copy the `@Infection` folder (from the Steam Workshop) into your server
-   folder.
+1. Copy the `@Infection` folder (from the
+   [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3839248989))
+   into your server folder.
 2. Copy `@InfectionServer` from here into your server folder as well, next
    to `@Infection`.
 3. If your server verifies signatures, copy the `.bikey` file from `keys`
@@ -101,7 +102,7 @@ set `CureItem` to `AntiChemInjector` in `Settings.json`.
 
 ## Terms
 
-Play the mod and run it on your servers by subscribing on the Steam
-Workshop. Do not repack it, re-upload it or modified versions of it, include
+Play the mod and run it on your servers by subscribing on the
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3839248989). Do not repack it, re-upload it or modified versions of it, include
 its files in another mod or server pack, or sell it or access to it. The
 full terms are in `LICENSE.txt`.
