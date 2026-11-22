@@ -162,6 +162,7 @@ the horde.
 | `HordeStragglerSeconds` | `40.0` | A member that makes no progress for this many seconds is released. At least 5. |
 | `FeralSeconds` | `60.0` | Seconds a horde runs wild after its leader is killed. |
 | `HordeFeastMax` | `4` | How many of the horde gather round and feed with their leader. 0 to 6; `0` = none. |
+| `HordeCanBeEquipped` | `1` | Let a risen player dress the infected of their horde. With their inventory open, the members within reach are listed beside them and take headgear, eyewear, a vest and a pack; they stand still meanwhile. What a member wears protects it, and drops with its body. |
 
 ### Toughness
 
