@@ -1,0 +1,26 @@
+INFECTION - TERMS OF USE
+========================
+
+Copyright (c) 2026 Maximus Magnificus. All rights reserved.
+
+You may:
+
+  - Play with this mod, and run it on your own DayZ servers, by subscribing
+    to it on the Steam Workshop.
+  - Change its settings through the server's Settings.json.
+
+You may not, without written permission from the author:
+
+  - Repack it, in whole or in part, into another mod or server pack.
+  - Re-upload it, or any modified version of it, to the Steam Workshop or
+    anywhere else.
+  - Modify its files, or use its scripts, animations or other content in
+    another work.
+  - Sell it, or charge for access to it or to anything in it. Running it on
+    a monetised server is subject to Bohemia Interactive's DayZ Server
+    Monetisation rules.
+
+This mod is made with Bohemia Interactive's DayZ Tools and is subject to
+their licence terms. DayZ and its content belong to Bohemia Interactive.
+
+The mod is provided as it is, without warranty of any kind.
