@@ -184,6 +184,7 @@ the horde.
 | Setting | Default | What it does |
 |---|---|---|
 | `RisenVoice` | `1` | What others hear when a risen player talks. `0` normal speech, `1` mumbling (the game's effect for a gagged player), `2` nothing. Risen players always hear survivors normally. |
+| `RisenMoans` | `1` | Let risen players moan and growl as the game's infected do while they stand and move, louder and more often the faster they go. Everyone near them hears it, so with this on a risen player cannot creep up on anyone in silence. |
 
 ### Diagnostics
 
